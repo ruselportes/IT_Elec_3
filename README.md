@@ -3,7 +3,7 @@
 A three-part exercise showing how one machine-learning model can be reused three
 different ways: saved to disk, exposed as an API, and wrapped in a web interface.
 
-![Student Pass / Fail Checker screenshot](exercise3/screenshot.png)
+![Student Pass / Fail Checker screenshot](exercise3/screenshot.jpg)
 
 ## What's inside
 
